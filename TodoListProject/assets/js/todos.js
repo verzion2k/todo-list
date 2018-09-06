@@ -26,6 +26,4 @@ $("input[type='text']").keypress("click", function(event){
 // Fade in and out the input
 $(".fa-plus").click(function(){
 	$("input[type='text']").fadeToggle();
-		$("ul").append("<li><span>X</span> " + todoText + "</li>")
-	}
 });

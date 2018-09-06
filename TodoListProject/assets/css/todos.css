@@ -40,10 +40,6 @@ span {
 	opacity: 0;
 }
 
-li:nth-child(2n) {
-	background: #f7f7f7;
-}
-
 input {
 	font-size: 18px;
 	color: #2980b9;
